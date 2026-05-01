@@ -32,7 +32,7 @@ Mindset     : Learn → Build → Optimize → Scale
 ---
 
 # 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=aditi431&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=aditi431&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditi431&layout=compact&theme=tokyonight&hide_border=true"/> 
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=aditi431&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=aditi431&theme=tokyonight&hide_border=true" /><br> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditi431&layout=compact&theme=tokyonight&hide_border=true"/> 
 </div>
 
 ---
