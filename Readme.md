@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently pursuing B.Tech at BGEIM<br>I am looking for AI learning <br>Aspiring AI engineer 
 
+```yaml
+Doing     :  I am currently pursuing B.Tech at BGEIM
+Learning  :  I am looking for AI learning 
+Dream     :  Aspiring AI engineer 
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-sharma-14069730b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditisha15@gmail.com) 
@@ -14,6 +18,10 @@ I am currently pursuing B.Tech at BGEIM<br>I am looking for AI learning <br>Aspi
 ![](https://github-readme-stats.shion.dev/api?username=aditi431&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=aditi431&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditi431&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aditi431&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
