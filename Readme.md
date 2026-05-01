@@ -1,9 +1,22 @@
-# 💫 About Me:
+<h1 align="center">✨ Hey, I'm Aditi Sharma</h1>
+<h3 align="center">🤖 Aspiring AI Engineer | Python Developer | Building Intelligent Systems</h3>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+</div>
+
+---
+
+## 💫 About Me
 
 ```yaml
-Doing     :  I am currently pursuing B.Tech at BGEIM
-Learning  :  I am looking for AI learning 
-Dream     :  Aspiring AI engineer 
+Education   : B.Tech @ BGEIM
+Focus       : Artificial Intelligence & Machine Learning
+Learning    : Deep Learning, Computer Vision, APIs
+Goal        : Become an AI Engineer building real-world systems
+Mindset     : Learn → Build → Optimize → Scale
 ```
 
 ## 🌐 Socials:
@@ -19,9 +32,8 @@ Dream     :  Aspiring AI engineer
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aditi431&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=aditi431&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditi431&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=aditi431&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=aditi431&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditi431&layout=compact&theme=tokyonight&hide_border=true"/> 
+</div>
 
 ---
 
