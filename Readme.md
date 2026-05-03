@@ -5,7 +5,6 @@
 </div>
 
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhiczV1Ym1oaThncm5tMjA0OG1ic2F1ZXN3Z243NnV3eWo1NXVmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="coding gif"/>
 
 ## 💫 About Me
 
