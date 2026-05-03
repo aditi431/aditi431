@@ -125,10 +125,6 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aditi431&style=for-the-badge&color=7c3aed)
-
 **Thanks for visiting! Let's build something amazing together. 🚀**
 </div>
 <div align="center">
