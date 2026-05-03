@@ -125,13 +125,11 @@
 
 </div>
 
-**Thanks for visiting! Let's build something amazing together. 🚀**
-</div>
 <div align="center">
-  
-<img src="under-construction.gif">
 
-</div>
+**Thanks for visiting! Let's build something amazing together. 🚀**
+
+<img src="under-construction.gif">
 
 <div align="center">
   
